@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/hktalent/go-update"
 	"github.com/pkg/errors"
 	"github.com/tj/go/http/request"
 )
