@@ -5,7 +5,7 @@ from GitHub based on the user's current version and operating system. Used by co
 
 ---
 
-[![GoDoc](https://godoc.org/github.com/tj/go-update?status.svg)](https://godoc.org/github.com/tj/go-update)
+[![GoDoc](https://godoc.org/github.com/hktalent/go-update?status.svg)](https://godoc.org/github.com/hktalent/go-update)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
 
